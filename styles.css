@@ -1,0 +1,42 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <style>
+
+            .centered
+            {
+                text-align: center;
+            }
+
+            .large
+            {
+                font-size: large;
+            }
+
+            .medium
+            {
+                font-size: medium;
+            }
+
+            .small
+            {
+                font-size: small;
+            }
+
+        </style>
+        <title>css2</title>
+    </head>
+    <body class="centered">
+        <header class="large">
+            
+        </header>
+        <main class="medium">
+            Welcome to my page!
+        </main>
+        <footer class="small">
+             John Harvard
+        </footer>
+    </body>
+</html>
